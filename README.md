@@ -31,6 +31,7 @@ the difference between the target and the prediction is calculated and squared.
 this is added to the total cost.
 
 </br>
+
 ### Cost Function Intuition
 
 
